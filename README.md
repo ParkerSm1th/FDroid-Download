@@ -2,8 +2,8 @@
 
 ## Download
 
-`git clone https://github.com/ParkerSm1th/FDroid-Download.git`
-`npm install`
+1. `git clone https://github.com/ParkerSm1th/FDroid-Download.git`
+2. `npm install`
 
 ## Run
 
