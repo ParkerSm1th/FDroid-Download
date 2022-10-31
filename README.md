@@ -7,8 +7,8 @@
 
 ## Run
 
-`./index.js -s (QUERY) -p (PATH ON YOUR LOCAL SYSTEM)`
+`./index.js -s (QUERY) -p (PATH ON YOUR LOCAL SYSTEM) -w (WEBSITE)`
 **OR**
-`node index.js -s (QUERY) -p (PATH ON YOUR LOCAL SYSTEM)`
+`node index.js -s (QUERY) -p (PATH ON YOUR LOCAL SYSTEM) -w (WEBSITE)`
 
 _Intended for use at Colorado State University_
